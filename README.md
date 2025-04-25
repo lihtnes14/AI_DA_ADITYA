@@ -44,3 +44,4 @@ cd mindease
 
 ```bash
 streamlit run app.py
+```
