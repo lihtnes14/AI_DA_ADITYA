@@ -17,7 +17,7 @@ MindEase is an AI-powered mental health companion built with LangChain, Google G
 
 Follow these steps to set up and run the app locally.
 
-### 1. **Clone the Repository**
+1. **Clone the Repository**
 
 ```bash
 git clone https://github.com/adi1174/AI_DA_ADITYA
@@ -40,7 +40,7 @@ cd mindease
     GOOGLE_API_KEY="your-api-key-here"
     ```
 
-After setting up the project and installing dependencies, run the app with the following command:
+5. After setting up the project and installing dependencies, run the app with the following command:
 
 ```bash
 streamlit run app.py
